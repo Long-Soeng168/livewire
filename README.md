@@ -1,5 +1,5 @@
 ## How to clone project
- cp .env.example .env
+ 
 - git clone  
 - composer install
 - cp .env.example .env
